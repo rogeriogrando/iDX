@@ -1,0 +1,44 @@
+[
+  {
+    "model": "Empresa",
+    "data": {
+      "email": "cesar@cesar.com.br",
+      "password": "cesar123",
+      "razao": "cesar",
+      "nomefantasia": "Restaurante Cesar",
+      "cnpj": "11111111111112",
+      "cep": "18520000",
+      "cidade": "Tietê",
+      "uf": "SP",
+      "bairro": "End1",
+      "rua": "Rua1",
+      "numero": "1",
+      "complemento": "",
+      "referencia": "Shopping Tietê",
+      "imagepath": "assets/img/restaurants/emp/1/cesar.png",
+      "sobre": "Empresa a 10 anos de mercado",
+      "funcionamento": "Horário de funcionamento das 07:00 as 12:00"
+     }
+  },
+  {
+    "model": "Empresa",
+    "data": {
+      "email": "bomjesus@bomjesus.com.br",
+      "password": "bomjesus123",
+      "razao": "Bom Jesus",
+      "nomefantasia": "Restaurante Bom Jesus",
+      "cnpj": "22222222222222",
+      "cep": "18520000",
+      "cidade": "Cerquilho",
+      "uf": "SP",
+      "bairro": "End2",
+      "rua": "Rua2",
+      "numero": "2",
+      "complemento": "",
+      "referencia": "Proximo ao banco Iteu",
+      "imagepath": "assets/img/restaurants/emp2/2/bomjesus.png",
+      "sobre": "Qualidade em marmitas",
+      "funcionamento": "Horário de funcionamento das 07:00 as 12:00"
+     }
+  }
+]

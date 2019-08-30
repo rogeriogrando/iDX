@@ -1,0 +1,13 @@
+[
+  {
+    "model": "PedidoPrato",
+    "data": {
+      "idpedido": 1,
+      "idempresa": 1,
+      "tamanho": "P",
+      "descricao": "Prato da casa",
+      "qt_porcao": 11,
+      "quantidade": 2
+     }
+  }
+]

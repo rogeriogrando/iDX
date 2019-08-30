@@ -1,0 +1,47 @@
+[
+  {
+    "model": "CardapioPrato",
+    "data": {
+      "idempresa": 1,
+      "idcardapio": 1,
+      "idprato": 1,
+      "descricao_prato": "Carne Moída com Batata"
+     }
+  },
+  {
+    "model": "CardapioPrato",
+    "data": {
+      "idempresa": 1,
+      "idcardapio": 1,
+      "idprato": 1,
+      "descricao_prato": "Panqueca de Carne"
+     }
+  },
+  {
+    "model": "CardapioPrato",
+    "data": {
+      "idempresa": 1,
+      "idcardapio": 1,
+      "idprato": 1,
+      "descricao_prato": "Carne de panela"
+     }
+  },
+  {
+    "model": "CardapioPrato",
+    "data": {
+      "idempresa": 1,
+      "idcardapio": 1,
+      "idprato": 1,
+      "descricao_prato": "Omelete"
+     }
+  },
+  {
+    "model": "CardapioPrato",
+    "data": {
+      "idempresa": 2,
+      "idcardapio": 7,
+      "idprato": 4,
+      "descricao_prato": "Omelete"
+     }
+  }
+]

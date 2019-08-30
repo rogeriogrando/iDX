@@ -1,0 +1,25 @@
+[
+  {
+    "model": "Cliente",
+    "data": {
+      "email": "cli@cli.com.br",
+      "password": "cli123",
+      "nome": "cli",
+      "ddd": "15",
+      "telefone": "32841798",
+      "tipotelefone": "Fixo"
+     }
+  },
+  {
+    "model": "Cliente",
+    "data": {
+      "email": "cliexclusao@cli.com.br",
+      "password": "cliexclusao123",
+      "nome": "cliexclusao",
+      "ddd": "19",
+      "telefone": "991591837",
+      "tipotelefone": "Celular"
+     }
+  }
+
+]

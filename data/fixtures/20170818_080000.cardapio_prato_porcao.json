@@ -1,0 +1,47 @@
+[
+  {
+    "model": "CardapioPratoPorcao",
+    "data": {
+      "idempresa": 1,
+      "idcardapio_prato": 1,
+      "iditem_porcao": 1,
+      "qt_porcao": 2
+     }
+  },
+  {
+    "model": "CardapioPratoPorcao",
+    "data": {
+      "idempresa": 1,
+      "idcardapio_prato": 1,
+      "iditem_porcao": 3,
+      "qt_porcao": 3
+     }
+  },
+  {
+    "model": "CardapioPratoPorcao",
+    "data": {
+      "idempresa": 1,
+      "idcardapio_prato": 1,
+      "iditem_porcao": 4,
+      "qt_porcao": 3
+     }
+  },
+  {
+    "model": "CardapioPratoPorcao",
+    "data": {
+      "idempresa": 1,
+      "idcardapio_prato": 1,
+      "iditem_porcao": 5,
+      "qt_porcao": 2
+     }
+  },
+  {
+    "model": "CardapioPratoPorcao",
+    "data": {
+      "idempresa": 2,
+      "idcardapio_prato": 5,
+      "iditem_porcao": 1,
+      "qt_porcao": 3
+     }
+  }
+]

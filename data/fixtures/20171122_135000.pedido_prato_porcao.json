@@ -1,0 +1,22 @@
+[
+  {
+    "model": "PedidoPratoPorcao",
+    "data": {
+      "idpedidoprato": 1,
+      "idempresa": 1,
+      "item": "Arroz",
+      "qt_porcao_item": 3,
+      "vl_porcao": 1.5
+     }
+  },
+ {
+    "model": "PedidoPratoPorcao",
+    "data": {
+      "idpedidoprato": 1,
+      "idempresa": 1,
+      "item": "Feijão",
+      "qt_porcao_item": 1,
+      "vl_porcao": 1.5
+     }
+  }
+]

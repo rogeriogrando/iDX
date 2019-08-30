@@ -1,0 +1,133 @@
+[
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Farofa",
+      "qt_porcao": 300,
+      "vl_porcao": 1.50
+     }
+  },
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Filé de frago grelhado",
+      "qt_porcao": 300,
+      "vl_porcao": 1.50
+     }
+  },
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Filé a milanesa",
+      "qt_porcao": 300,
+      "vl_porcao": 1.50
+     }
+  },
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Bife a milanesa",
+      "qt_porcao": 300,
+      "vl_porcao": 1.50
+     }
+  },
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Bife grelado",
+      "qt_porcao": 300,
+      "vl_porcao": 1.50
+     }
+  },
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Bife grelado com queijo",
+      "qt_porcao": 300,
+      "vl_porcao": 1.80
+     }
+  },
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Carne moida com batata",
+      "qt_porcao": 300,
+      "vl_porcao": 1.50
+     }
+  },
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Banana",
+      "qt_porcao": 100,
+      "vl_porcao": 1.00
+     }
+  },
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Panceta",
+      "qt_porcao": 100,
+      "vl_porcao": 1.00
+     }
+  },
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Bisteca",
+      "qt_porcao": 100,
+      "vl_porcao": 1.00
+     }
+  },
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Linguiça Caipira",
+      "qt_porcao": 100,
+      "vl_porcao": 1.00
+     }
+  },
+
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Arroz",
+      "qt_porcao": 300,
+      "vl_porcao": 1.50
+     }
+  },
+  {
+    "model": "ItemPorcao",
+    "data": {
+      "idempresa": 1,
+      "unidade_medida": "gr",
+      "item": "Feijão",
+      "qt_porcao": 300,
+      "vl_porcao": 1.50
+     }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "model": "ClienteEndereco",
+    "data": {
+      "idcliente": 1,
+      "cep": "18520000",
+      "cidade": "Cerquilho",
+      "uf": "SP",
+      "bairro": "End1",
+      "rua": "Rua1",
+      "numero": "1",
+      "complemento": "",
+      "referencia": "Igreja São Benetido",
+      "principal": true
+     }
+  },
+  {
+    "model": "ClienteEndereco",
+    "data": {
+      "idcliente": 2,
+      "cep": "18520000",
+      "cidade": "Cerquilho",
+      "uf": "SP",
+      "bairro": "End1",
+      "rua": "Rua1",
+      "numero": "1",
+      "complemento": "",
+      "referencia": "Igreja São Benetido",
+      "principal": true
+     }
+  },
+  {
+    "model": "ClienteEndereco",
+    "data": {
+      "idcliente": 2,
+      "cep": "18530000",
+      "cidade": "Tiete",
+      "uf": "SP",
+      "bairro": "EndX",
+      "rua": "RuaX",
+      "numero": "X",
+      "complemento": "",
+      "referencia": "XXX",
+      "principal": false
+     }
+  }
+
+
+]

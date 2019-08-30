@@ -1,0 +1,56 @@
+[
+  {
+    "model": "Prato",
+    "data": {
+      "idempresa": 1,
+      "tamanho": "P",
+      "qt_porcao": 11,
+      "descricao": "Alumínio"
+     }
+  },
+  {
+    "model": "Prato",
+    "data": {
+      "idempresa": 1,
+      "tamanho": "M",
+      "qt_porcao": 14,
+      "descricao": "Alumínio"
+     }
+  },
+  {
+    "model": "Prato",
+    "data": {
+      "idempresa": 1,
+      "tamanho": "G",
+      "qt_porcao": 17,
+      "descricao": "Alumínio"
+     }
+  },
+    {
+    "model": "Prato",
+    "data": {
+      "idempresa": 2,
+      "tamanho": "P",
+      "qt_porcao": 11,
+      "descricao": "Isopor"
+     }
+  },
+  {
+    "model": "Prato",
+    "data": {
+      "idempresa": 2,
+      "tamanho": "M",
+      "qt_porcao": 14,
+      "descricao": "Isopor"
+     }
+  },
+  {
+    "model": "Prato",
+    "data": {
+      "idempresa": 2,
+      "tamanho": "G",
+      "qt_porcao": 17,
+      "descricao": "Isopor"
+     }
+  }
+]

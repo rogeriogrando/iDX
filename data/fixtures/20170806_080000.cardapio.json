@@ -1,0 +1,98 @@
+[
+  {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 1,
+      "dia": "segunda-feira",
+      "ativo": true
+     }
+  },
+  {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 1,
+      "dia": "terca-feira",
+      "ativo": true
+     }
+  },
+  {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 1,
+      "dia": "quarta-feira",
+      "ativo": true
+     }
+  },
+  {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 1,
+      "dia": "quinta-feira",
+      "ativo": true
+     }
+  },
+  {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 1,
+      "dia": "sexta",
+      "ativo": true
+     }
+  },
+  {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 1,
+      "dia": "sabado",
+      "ativo": true
+     }
+  },
+    {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 2,
+      "dia": "segunda-feira",
+      "ativo": true
+     }
+  },
+  {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 2,
+      "dia": "terca-feira",
+      "ativo": true
+     }
+  },
+  {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 2,
+      "dia": "quarta-feira",
+      "ativo": true
+     }
+  },
+  {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 2,
+      "dia": "quinta-feira",
+      "ativo": true
+     }
+  },
+  {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 2,
+      "dia": "sexta",
+      "ativo": true
+     }
+  },
+  {
+    "model": "Cardapio",
+    "data": {
+      "idempresa": 2,
+      "dia": "sabado",
+      "ativo": true
+     }
+  }
+]
