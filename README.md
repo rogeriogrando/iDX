@@ -8,7 +8,9 @@ Hapi-API-boilerplate Node(8.1.0)
 
 [![js-semistandard-style](https://cdn.rawgit.com/flet/semistandard/master/badge.svg)](https://github.com/Flet/semistandard)
 
-Este é um boilerplate baseado no projeto [start-hapiness](https://github.com/thebergamo/start-hapiness) que utiliza Hapi.js e MongoDB, porém foi alterado para aplicar os frameworks Hapi.js e Sequelize(PostgreSQL).
+Este projeto é o backend de um sistema de comercialização customizadas de marmitas, permite realizar a montagem de acordo com a necessidade do cliente, separando cada item em porções precificando adequadamente conforme a customização.
+
+Este é baseado no projeto [start-hapiness](https://github.com/thebergamo/start-hapiness) que utiliza Hapi.js e MongoDB, porém foi alterado para aplicar os frameworks Hapi.js e Sequelize(PostgreSQL).
 
 #### Estrutura do Projeto
 Na raiz, temos os diretórios: `scripts`, `data` e `src`. 
